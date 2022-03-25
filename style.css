@@ -7,7 +7,7 @@
     --border-radius:10px;
     --width-height: 45px;
     --bar-radius: 20px;
-    --endcircle-wh: 12  px;
+    --endcircle-wh: 12px;
 }
 body{
     background-image: url("fylo-data-storage-component-master/images/bg-desktop.png");
